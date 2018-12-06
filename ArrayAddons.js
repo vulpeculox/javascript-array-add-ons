@@ -1,3 +1,9 @@
+/* Title: Array Addons 
+   Purpose: Additional Array methods dealing with values
+   Licence: MIT
+   Author: Peter Fox   style@vulpeculox.net
+   Origin: http://vulpecululox.net/misc/jsjq/ArrayAddons
+   Built: 06/12/2018, 12:17:53 */
 // In-situ array modification by value
 // Hacking Array.prototype
 
